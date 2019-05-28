@@ -72,13 +72,15 @@ async function getResult() {
         data = d
     });
     for (d in data) {
-        await $.getJSON(`http://cmsc106.net/Lawrence/people/${userID}/overlap/${data[d].id}`, (result) => {
-            if (result["overlap"] > best) {
-                best = result["overlap"];
-                bestData = result;
-            }
-            console.log(result)
-        });
+        if (d < data.length - 1) {
+            await $.getJSON(`http://cmsc106.net/Lawrence/people/${userID}/overlap/${data[d].id}`, (result) => {
+                if (result["overlap"] > best) {
+                    best = result["overlap"];
+                    bestData = result;
+                }
+                // console.log(result)
+            });
+        }
     }
     for (i in data) {
         if (data[i]["id"] == bestData["two"]) {
@@ -121,7 +123,7 @@ async function submitUser(firstName, lastName) {
     }
     // POST it to the server
     await $.postJSON('http://cmsc106.net/Lawrence/people?group=ASH', data, (id) => {
-        userID = id; 
+        userID = id;
         // console.log("Submitted " + userID)
     });
 
