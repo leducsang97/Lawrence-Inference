@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Two people will be matched if there attribute lists are similar.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <!-- Load the main bootstrap style sheet... -->
+    <link href="../styles/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <!-- and our additional styles. -->
+    <title>Lawrence Inference</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-pink.min.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="../styles/">
+    <scirpt src='../styles/popper.min.js'></scirpt>
+    <!--getmdl-select-->
+    <script defer src="../styles/getmdl-select.min.js"></script>
+    <link rel="stylesheet" href="../styles/styles.css" />
+
+</head>
+
+<body class="bg">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header mdl-layout__header--waterfall portfolio-header">
+            <div class="mdl-layout__header-row portfolio-logo-row">
+                <span class="mdl-layout__title">
+                    <p>Lawrence Inference</p>
+                </span>
+            </div>
+
+    </div>
+    </header>
+
+
+    <div class="mdl-layout__content">
+        <div class="mdl-  portfolio-max-width slide1_container">
+
+            <center>
+                <!-- Main card -->
+
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card card-cell w3-center w3-animate-bottom"
+                    id="main">
+                    <div class="mdl-card__media">
+                        <img class="article-image" src="https://teenlife.s3.amazonaws.com/media/uploads/listings/lawrence-university/lg_20110615_123729_17885.jpg" border="0" alt="">
+                    </div>
+                    <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text">Match your Lawrentian</h2>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        This is project in CMSC 106. The project provide wasdfasfasd.
+                    </div>
+
+                        <div id="name">
+                            <div class="mdl-textfield mdl-js-textfield ">
+                                    <label for="firstName">First Name</label>
+                                <input class="mdl-textfield__input" type="text" id="firstName">
+                            </div>
+                        <br>
+                            <div class="mdl-textfield mdl-js-textfield ">
+                                    <label for="lastName">Last Name</label>
+                                <input class="mdl-textfield__input" type="text" id="lastName">
+                            </div>
+                        </div>
+                    <div class="mdl-card__actions mdl-card--border center" id="open_main">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent">Let's
+                            start!</a>
+                    </div>
+                </div>
+
+
+                <!-- First card and second card keep swapping to create sliding effect -->
+                <!-- First Card -->
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card card-cell w3-animate-right" id="first"
+                    style="width: calc(50% - 16px)">
+                    <div class="mdl-card__supporting-text">
+                        Remember that when you choose option "Others", it means that you do not prefer the provided
+                        options.
+                    </div>
+                    <div class="form-check" id="quiz1">
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border center" id="open1">
+                        <a
+                            class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent">Next</a>
+                    </div>
+                </div>
+
+                <!-- second card -->
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card card-cell w3-animate-right" id="second"
+                    style="width: calc(50% - 16px);">
+                    <!-- Numeric Textfield with Floating Label -->
+                    <!-- Simple Textfield -->
+                    <div class="mdl-card__supporting-text">
+                        Remember that when you choose option "Others", it means that you do not prefer the provided
+                        options.
+                    </div>
+                    <form action="#">
+                    </form>
+                    <div class="form-check" id="quiz2">
+                    </div>
+
+                    <div class="mdl-card__actions mdl-card--border center" id="open2">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent">Next</a>
+                    </div>
+                </div>
+                <div class="loader"></div>
+                
+                <!-- Result card -->
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card card-cell w3-center w3-animate-bottom"
+                id="resultCard">
+                <div class="mdl-card__media" id="result_image">
+                    <img class="article-image" src=" ../images/example-work01.jpg" border="0" alt="">
+                </div>
+                <div class="mdl-card__title">
+                    <h2 class="mdl-card__title-text" id="resultName"></h2>
+                </div>
+                <div class="mdl-card__supporting-text" id="resultDescription">
+                        
+                    </div>
+
+                    <div class="mdl-card__supporting-text">
+                            <p>Very Cool!</p>
+                            </div>
+
+                <div class="mdl-card__actions mdl-card--border center" id="retry">
+                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent">Retry</a>
+                </div>
+            </div>
+                
+            </center>
+        </div>
+        </div>
+    </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" language="JavaScript"
+        type="text/javascript"></script>
+    <script src="../js/index.js" language="JavaScript" type="text/javascript"></script>
+    <!-- <script src="https://code.getmdl.io/1.3.0/material.min.js"></script> -->
+</body>
+
+
+</html>

@@ -1,0 +1,911 @@
+[{
+    "name": "Carla Daughtry",
+    "description": "Middle East and North Africa, new immigrants in Italy, migrants and refugees, food and culture, cultural research methods, race and ethnicity across cultures, sex/gender/sexuality systems.",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/carla-daughtry.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Brenda Jenike",
+    "description": "medical anthropology, disability and culture, culture and aging, family, gender, Japan and East Asia",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/brenda-jenike.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Mark Jenike",
+    "description": "behavioral ecology, human biology, nutritional anthropology, human evolution, reproductive ecology, anthropological demography",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/mark-jenike.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Lavanya H. Murali",
+    "description": "linguistic anthropology, sociolinguistics, ideologies about English, semiotics, gender and sexuality, post/colonialism, India",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/lavanya-m-proctor.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Peter Neal Peregrine",
+    "description": "archaeology, geophysical methods, statistical analysis, cross-cultural research, cultural evolution, resilience theory, museum curation and exhibition",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/peter-n-peregrine.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Daniel J. Proctor",
+    "description": "Origins of bipedalism, paleoanthropology, forensic anthropology, functional anatomy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/dan-proctor.jpg",
+        "department": "Anthropology"
+    }
+}, {
+    "name": "Tony Gerald Conrad",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/tony-g-conrad.jpg",
+        "department": "Studio Art"
+    }
+}, {
+    "name": "Rob Neilson",
+    "description": "sculpture, public art, drawing",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/rob-neilson.jpg",
+        "department": "Studio Art"
+    }
+}, {
+    "name": "Benjamin Rinehart",
+    "description": "printmaking, book arts, paper making, drawing, painting, & graphic design",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/benjamin-d-rinehart.jpg",
+        "department": "Studio Art"
+    }
+}, {
+    "name": "John A. Shimon",
+    "description": "Photography, New Media, Visual Culture, Antiquarian Photographic Processes, Documentary Photography and Film, Experimental Film",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/john-shimon.jpg",
+        "department": "Studio Art"
+    }
+}, {
+    "name": "Meghan C. Sullivan",
+    "description": "Ceramics, Drawing, Figurative Sculpture",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/meghan-c-sullivan.jpg",
+        "department": "Studio Art"
+    }
+}, {
+    "name": "Elizabeth Carlson",
+    "description": "Modern and Contemporary Art History and Visual Culture",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/elizabeth-carlson.jpg",
+        "department": "Art History"
+    }
+}, {
+    "name": "Danielle B. Joyner",
+    "description": "has a dog",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/danielle-b-joyner.jpg",
+        "department": "Art History"
+    }
+}, {
+    "name": "Nancy Lin",
+    "description": "East Asian Art History and Visual Culture",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/nancy-lin.jpg",
+        "department": "Art History"
+    }
+}, {
+    "name": "Beth A. Zinsli",
+    "description": "History and Theory of Photography, Visual Culture Studies, Contemporary Art History, Museum Studies",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/beth-a-zinsli.jpg",
+        "department": "Art History"
+    }
+}, {
+    "name": "Bart T. De Stasio",
+    "description": "evolutionary ecology, aquatic biology, predator-prey interactions",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/bart-t-de-stasio.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Elizabeth Ann De Stasio",
+    "description": "interactions of biological molecules, evolution",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/elizabeth-a-destasio.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Israel Del Toro",
+    "description": "Community Ecology, Biodiversity Science, Biogeography",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/israel-deltoro.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Kimberly Dickson",
+    "description": "protein structure and function",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/kimberly-dickson.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Alyssa S. Hakes",
+    "description": "spatial ecology, herbivory, plant defense",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/alyssa-s-hakes.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Judith Humphries",
+    "description": "arasitology, invertebrate immunology, gene regulation, snail neurobiology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/judith-humphries.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Brian P. Piasecki",
+    "description": "cell & molecular biology, evolutionary biology, and microbiology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/brian-p-piasecki.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Relena R. Ribbons",
+    "description": "Biogeochemistry, Soil biology, Forest ecology, Ecosystem and Community ecology, Dendrochronology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/relena-r-ribbons.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Jodi Sedlock",
+    "description": "tropical diversity, conservation biology, ecosystem services, sensory ecology, bat ecology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jodi-sedlock.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Nancy A. Wall",
+    "description": "neural development, pattern formation, differentiation,",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/nancy-a-wall.jpg",
+        "department": "Biology"
+    }
+}, {
+    "name": "Mike Clement",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/michael-clement.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "Stefan Debbert",
+    "description": "Organic and organometallic chemistry, synthesis, medicinal chemistry",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/stefan-debbert.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "Deanna L. Donohoue",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/deanna-l-donohoue.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "Allison M. M. Fleshman",
+    "description": "Fundamental transport phenomena of ions and molecules in liquids (primarily conductivity, diffusion, and viscosity). Also investigating pigments and inks in art objects using confocal Raman microscopy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/allison-m-fleshman.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "David J. Hall",
+    "description": "mechanisms by which rhinovirus activation of immune cells leads to the exacerbation of asthma",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/david-hall.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "Graham T. Sazama",
+    "description": "Synthesis of coordination organometallic compounds; Small-molecule reactivity; Open-shell compounds (molecules with unpaired electrons); Magnetic properties; Luminescence; Molecular materials",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/graham-t-sazama.jpg",
+        "department": "Chemistry"
+    }
+}, {
+    "name": "Akimi Adler",
+    "description": "",
+    "additional": {
+        "photo": "",
+        "department": "Japanese"
+    }
+}, {
+    "name": "Yu-Lin Chiu",
+    "description": "wears different colored socks! and in general bright colored clothes :)",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/yu_lin-chiu.jpg",
+        "department": "Chinese"
+    }
+}, {
+    "name": "Yoshiaki Makita",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/yoshi-makita.jpg",
+        "department": "Japanese"
+    }
+}, {
+    "name": "Kuo-ming Sung",
+    "description": "smiles a lot, super smart and very harsh",
+    "additional": {
+        "photo": "",
+        "department": "Chinese"
+    }
+}, {
+    "name": "Adriana Brook",
+    "description": "Greek tragedy, especially Sophocles, poetics, ritual, narratology, Roman reception of Greek tragedy, literature and culture of fifth-century Athens",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/adriana-e-brook.jpg",
+        "department": "Classics"
+    }
+}, {
+    "name": "Randall McNeill",
+    "description": "Latin poetry, language and social interaction, Greek and Roman history",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/randall-mcneill.jpg",
+        "department": "Classics"
+    }
+}, {
+    "name": "Bob Williams",
+    "description": "distributed cognition; cognitive linguistics; gesture studies; instructional discourse",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/robert-f-williams.jpg",
+        "department": "Cognitive Sc."
+    }
+}, {
+    "name": "Kurt Krebsbach",
+    "description": "artificial intelligence, automated planning, multi-agent systems, functional programming, music, zymurgy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/kurt-krebsbach.jpg",
+        "department": "Computer Sc."
+    }
+}, {
+    "name": "Joseph N. Gregg",
+    "description": "black polo shirts, jeans",
+    "additional": {
+        "photo": "",
+        "department": "Computer Sc."
+    }
+}, {
+    "name": "Brigid E. Vance",
+    "description": "East Asian history (especially early modern China and Japan), history of science and medicine, and dreams",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/brigid-e-vance.jpg",
+        "department": "East Asian Studies"
+    }
+}, {
+    "name": "Hillary Caruthers",
+    "description": "wears long skirts, goes by coach, short",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/hillary-caruthers.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Merton D. Finkler",
+    "description": "is really into investments, wall street, investment banking, China",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/merton-d-finkler.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Dylan B. Fitz",
+    "description": "loves running",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/dylan-b-fitz.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Adam Galambos",
+    "description": "wears shorts a lot, polo shirts",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/adam-galambos.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "David Gerard",
+    "description": "nstitutional & Organizational Economics, Energy & the Environment, Regulation & Public Policy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/david-gerard.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Jonathan Lhost",
+    "description": "talks A LOT, extroverted, Excel guru, computer guru, polo shirts, khaki pants",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jonathan-lhost.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Gary T. Vaughan",
+    "description": "Bussinessman, extroverted, wears a lot of suits, button up shirts",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/gary-vaughan.jpg",
+        "department": "Economics"
+    }
+}, {
+    "name": "Stephanie Burdick-Shepherd",
+    "description": "children",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/stephanie-burdick_shepherd.jpg",
+        "department": "Education"
+    }
+}, {
+    "name": "Cecile C. Despres-Berry",
+    "description": "knows japanese",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/cecile-despres_berry.jpg",
+        "department": "Education"
+    }
+}, {
+    "name": "Daniell DiFrancesca",
+    "description": "",
+    "additional": {
+        "photo": "",
+        "department": "Education"
+    }
+}, {
+    "name": "Steward C. Purkey",
+    "description": "educational reform, professional development, community- and place-based education, sociology of education, environmental education, film studies, ethnic studies",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/stewart-purkey.jpg",
+        "department": "Education"
+    }
+}, {
+    "name": "Celia B. Barnes",
+    "description": "Eighteenth-century British literature; women's writing, letters, and diaries",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/celia-b-barnes.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Garth Bond",
+    "description": "Renaissance literature, poetry and drama, manuscript studies, history of the book, film",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/garth-bond.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Karen A. Hoffman",
+    "description": "American and African-American literature",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/karen-a-hoffmann.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Lena L. Khor",
+    "description": "Contemporary world Anglophone literature, human rights and humanitarian discourse, postcolonial studies, literary theory, cultural studies, film",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/lena-l-khor.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "David E. McGlynn",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/david-e-mcglynn.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Melissa H. Range",
+    "description": "Contemporary American poetry, 19th century poetry, abolitionist literature, African American poetry, political poetry, religious poetry, rhyme",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/melissa-h-range.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Timothy A. Spurgin",
+    "description": "Wears suits, button up shirts, bowties, loves tangarines",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/timothy-a-spurgin.jpg",
+        "department": "English"
+    }
+}, {
+    "name": "Jesus G. Smith",
+    "description": "Race, Racism, Gender, Sexuality, Computer and Information Technology, Health",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jesus-g-smith.jpg",
+        "department": "Ethnic Studies"
+    }
+}, {
+    "name": "Ameya Balsekar",
+    "description": "Indian, was in a movie",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/ameya-s-balsekar.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "Jason Brozek",
+    "description": "very good style, runs a lot, wears tenis shoes, very sportsy, very organized",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jason-brozek.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "David E. Duncombe",
+    "description": "tall, suits, introvert, bussinessman",
+    "additional": {
+        "photo": "",
+        "department": "Government"
+    }
+}, {
+    "name": "William Hixon",
+    "description": "public policy, environmental public policy, Congressional politics",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/william-hixon.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "Arnold Shober",
+    "description": "public policy, education, charter schools, federalism, state and local government, American political development",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/arnold-shober.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "Claudena Skran",
+    "description": "disorganized, loves to travel, has a dog, wears colors",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/claudena-skran.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "Steven Wulf",
+    "description": "khaki pants, loves bikes, loves plato",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/steven-wulf.jpg",
+        "department": "Government"
+    }
+}, {
+    "name": "Peter Blitstein",
+    "description": "Russian Empire and the Soviet Union, Nationalism and Ethnicity, Historical Theory",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/peter-blitstein.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Paul M. Cohen",
+    "description": "modern European intellectual history",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/paul-cohen.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Sigma Colon",
+    "description": "19th through the 21st century environmental and cultural politics; cultural geography; environmental humanities; visual culture; intersections of environmental issues with systems of social injustice",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/sigma-colon.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Jake Frederick",
+    "description": "Mexican history, Afro-Latino history, environmental history",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jake-frederick.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Edmund Michael Kern",
+    "description": "early modern Europe, religious culture, Hapsburgs, Austria",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/ed-kern.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Jerald Podair",
+    "description": "20th-century American history, urban history, American race relations",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jerald-podair.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Monica Rico",
+    "description": "early America; the American West; gender and environment",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/monica-rico.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Brigid E. Vance",
+    "description": "East Asian history (especially early modern China and Japan), history of science and medicine, and dreams",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/brigid-e-vance.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Matty Wegehaupt",
+    "description": "Gender Studies, masculinity, sexuality, East Asia, Korean literature and film, Buddhism, translation",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/matthew-wegehaupt.jpg",
+        "department": "History"
+    }
+}, {
+    "name": "Alexandra Galambosh",
+    "description": "tall, always in the cafe, like to sit outside, speaks French and Russian, pretty fashionable",
+    "additional": {
+        "photo": "",
+        "department": "Linguistics"
+    }
+}, {
+    "name": "Scott Corry",
+    "description": "Number theory, algebraic geometry, combinatorics, and mathematical physics",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/scott-corry.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Alan Parks",
+    "description": "application of mathematics, computer algorithms, dynamics",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/alan-e-parks.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Bruce H. Pourciau",
+    "description": "very old, gives a lot of homework",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/bruce-h-pourciau.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Julie F. Rana",
+    "description": "has a nepali husband",
+    "additional": {
+        "photo": "",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Andrew Sage",
+    "description": "applied statistics, statistical machine learning, statistics education",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/andrew-j-sage.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Richard A. Sanerib",
+    "description": "very sarcastic but funny, morning person",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/richard-sanerib.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Elizabeth K. Sattler",
+    "description": "very pretty, beautiful",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/elizabeth-k-sattler.jpg",
+        "department": "Mathematics"
+    }
+}, {
+    "name": "Joanne Metcalf",
+    "description": "music composition",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/joanne-metcalf.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Asha Srinivasan",
+    "description": "Acoustic, electronic, and multi-media composition; collaboration with other arts",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/asha-srinivasan.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Matthew L. Turner",
+    "description": "Improvisation, Jazz, Composition, Music Education, New Music, Avant-Garde, Experimental Music",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/matthew-l-turner.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Matthew R. Arau",
+    "description": "Leadership, Potential, Learning Theory, Talent Research, Music Education, Motivation, Stravinsky, Engagement in Rehearsals, Paul Taffanel Chamber Wind Society in Paris 1879-1893, Jazz, Wind Ensembles,",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/matthew-r-arau.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Karen L. Bruno",
+    "description": "choral music education, student-centered pedagogy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/karen-l-bruno.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Brigetta F. Miller",
+    "description": "elementary and secondary education, multicultural education",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/brigetta-miller.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Leila A. Ramagopal Pertl",
+    "description": "very playful, extrovert, positive, happy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/leila-pertl.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Stephen M. Sieck",
+    "description": "Inclusive pedagogy for choirs, diction pedagogy, vocal pedagogy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/stephen-m-sieck.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Phillip A. Swan",
+    "description": "choral conducting, music education, jazz",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/phillip-swan.jpg",
+        "department": "Music"
+    }
+}, {
+    "name": "Ingrid V. Albrecht",
+    "description": "Ethics (with an emphasis on Kant), Moral Psychology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/ingrid-v-albrecht.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "Chloe Armstrong",
+    "description": "very talkative, loud, extrovert, cute, young",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/chloe-armstrong.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "John P. Dreher",
+    "description": "history of philosophy, environmental ethics, American pragmatism",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/john-p-dreher.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "Meredith L. McFadden",
+    "description": "Philosophy of Action, Metaethics, Biomedical Ethics, Chinese Philosophy, Epistemology, Nietzsche, Ethics of Technology, Philosophy of Law",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/meredith-l-mcfadden.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "Mark Phelan",
+    "description": "Philosophies of mind, language, and cognitive science; figurative language; theory of mind; linguistic pragmatics",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/mark-phelan.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "Thomas C. Ryckman",
+    "description": "philosophy of language, philosophy of mind, metaphysics, epistemology, philosophy of art",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/thomas-c-ryckman.jpg",
+        "department": "Philosophy"
+    }
+}, {
+    "name": "John R. Brandenberger",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/john-r-brandenberger.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Jeffrey A. Collett",
+    "description": "condensed matter physics, x-ray scattering, phase transitions, and critical phenomena, atomic physics, quantum information",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/jeffrey-a-collett.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "David Cook",
+    "description": "",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/david-m-cook.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Margaret Koker",
+    "description": "synchrotron x-ray measurement techniques; mechanically induced material behavior; data analysis methods",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/margaret-koker.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Douglas S. Martin",
+    "description": "biological physics, molecular motors, cytoskeleton",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/douglas-s-martin.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Megan Pickett",
+    "description": "Formation of solar systems, black hole and neutron star dynamics, Jupiter formation",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/megan-pickett.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Matthew R. Stoneking",
+    "description": "Non-neutral plasma physics, magnetic confinement of neutral plasmas.",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/matt-stoneking.jpg",
+        "department": "Physics"
+    }
+}, {
+    "name": "Matthew E. Ansfield",
+    "description": "social psych, very funny, charming",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/matthew-ansfield.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "David John Burrows",
+    "description": "cognitive psychology",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/dave-burrows.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Peter Glick",
+    "description": "stereotyping, discrimination, prejudice",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/peter-glick.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Terry L. Gottfried",
+    "description": "perception of speech and singing, psychology of cognition and perception",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/terry-gottfried.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Beth A. Haines",
+    "description": "cognitive development, problem-solving, social development, learning styles",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/beth-haines.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Bruce E. Hetzler",
+    "description": "neuropharmacology, effects of alcohol on the brain, computer analysis of brain waves",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/bruce-hetzler.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Gerald I. Metalsky",
+    "description": "origins of psychopathology, cognition and emotion, psychodiagnostics, psychotherapy",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/gerald-i-metalsky.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Linnet Ramos",
+    "description": "Behavioral pharmacology, mental health disorders, social behavior, drugs of abuse, novel therapeutics",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/staff/linnet-ramos.jpg",
+        "department": "Psychology"
+    }
+}, {
+    "name": "Karen L. Carr",
+    "description": "19th- and 20th-century religious thought, philosophy of religion, comparative religion",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/karen-l-carr.jpg",
+        "department": "Religious Studies"
+    }
+}, {
+    "name": "Constance Kassor",
+    "description": "Asian Religions, Buddhist Philosophy, Tibetan Buddhism, has so many open hours, very friendly to students",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/constance-e-kassor.jpg",
+        "department": "Religious Studies"
+    }
+}, {
+    "name": "Linda J. Morgan-Clement",
+    "description": "has very cool style, loves asian food",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/linda-morgan-clement.jpg",
+        "department": "Religious Studies"
+    }
+}, {
+    "name": "Elliot A. Ratzman",
+    "description": "Modern Jews & Judaism, Religious Ethics, Secularism/Atheism, Race and Religion",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/elliot-a-ratzman.jpg",
+        "department": "Religious Studies"
+    }
+}, {
+    "name": "Martyn Smith",
+    "description": "sacred space, religion and the environment, digital mapping, medieval Islam, Islam in America, global culture, travel narratives, close reading",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/martyn-smith.png",
+        "department": "Religious Studies"
+    }
+}, {
+    "name": "Victoria Kononova",
+    "description": "19th-century Russian literature, theater, folklore, cultural history, nationalism, Russian and Soviet music",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/victoria-kononova.jpg",
+        "department": "Russian"
+    }
+}, {
+    "name": "Elizabeth\\u00caK. Krizenesky",
+    "description": "Russian language, translation and interpreting, Russian and Soviet Republic culinary history and cooking",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/elizabeth-krizenesky.jpg",
+        "department": "Russian"
+    }
+}, {
+    "name": "Peter John Thomas",
+    "description": "Russia, poetry, translation, philosophy, contemporary composers",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/peter-thomas.jpg",
+        "department": "Russian"
+    }
+}, {
+    "name": "Madera Allan",
+    "description": "very pretty, Scott Corry's wife",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/madera-allan.jpg",
+        "department": "Spanish"
+    }
+}, {
+    "name": "Gustavo C. Fares",
+    "description": "Latin American Cultural Studies, literature and visual arts. Border Studies.",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/gustavo-c-fares.jpg",
+        "department": "Spanish"
+    }
+}, {
+    "name": "Cecilia Herrera",
+    "description": "Latin American literature, Film, Spanish civilizations and culture",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/cecilia-herrera.jpg",
+        "department": "Spanish"
+    }
+}, {
+    "name": "Rosa Tapia",
+    "description": "beautiful, skinny, gentle, funny, warm, love!",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/rosa-tapia.jpg",
+        "department": "Spanish"
+    }
+}, {
+    "name": "Karin Simonson Kopischke",
+    "description": "Historical renderings of real women forgotten and lost in time",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/karin-kopischke.jpg",
+        "department": "Theatre Arts"
+    }
+}, {
+    "name": "Kathy Privatt",
+    "description": "so sweet, warm, has really good posture, love!",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/kathy-privatt.jpg",
+        "department": "Theatre Arts"
+    }
+}, {
+    "name": "Aaron M. Sherkow",
+    "description": "Drama, Opera, Improvisation, Dance, Color, Form, Composition, Interactive Performance and Design, Carpentry, Welding, Electronics, Projections, Photography",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/aaron-sherkow.jpg",
+        "department": "Theatre Arts"
+    }
+}, {
+    "name": "Timothy Troy",
+    "description": "directing, musical theatre",
+    "additional": {
+        "photo": "http://www2.lawrence.edu/hosted/photos/people/faculty/timothy-troy.jpg",
+        "department": "Theatre Arts"
+    }
+}]

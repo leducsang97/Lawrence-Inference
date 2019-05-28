@@ -1,0 +1,33 @@
+<html>
+<head>
+  <link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+  <title>Adding Questions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h3 align="center"> If you want to add questions</h3>
+  <div id="inputs">
+  <fieldset>
+    <label for="attribute"> attribute:</label>
+    <input type="attribute" name="attribute" id="attribute">
+    <label for="question"> question:</label>
+    <input type="question" name="question" id="question">
+    <label for="responses"> responses:</label>
+    <input type="responses" name="responses" id="responses">
+    <label for="survey"> survey name:</label>
+    <input type="survey" name="survey" id="survey">
+    <button id="submit">Submit</button>
+  </fieldset>
+  </div>
+
+
+
+  <div id="list">
+  <h3 align="center"> These questions have already been entered! Make sure to create something new </h3>
+  <p>
+  </p>
+  <ul id="questions"></ul>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="questions.js"></script>
+</body>
+</html>

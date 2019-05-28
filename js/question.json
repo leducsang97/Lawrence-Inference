@@ -1,0 +1,56 @@
+[
+   {
+        "index": 1,
+        "attribute": "pet",
+        "question": "Your favorite pet?",
+        "option": ["Dog", "Cat", "Others"]
+    },
+    {
+        "index": 2,
+        "attribute": "sports",
+        "question": "Your favorite sports?",
+        "option": ["Football", "Swimming", "Running", "Biking", "Others"]
+    },
+    {
+        "index": 3,
+        "attribute": "outfit",
+        "question": "Favorite outfit from below:",
+        "option": ["Polo shirt", "Dresses", "Button-up shirt", "Shorts", "others"]
+    },
+    {
+        "index": 4,
+        "attribute": "dishes",
+        "question": "Among the dishes, which one is your favorite?",
+        "option": ["Burger", "Burrito", "Rice", "Noodle", "Anything"]
+    },
+    {
+        "index": 5,
+        "attribute": "office hours",
+        "question": "What do you think about office hours? ",
+        "option": ["I love it", "I don't care", "I don't use"]
+    },
+    {
+        "index": 6,
+        "attribute": "food",
+        "question": "Your favorite food? ",
+        "option": ["European", "Asian", "African", "Mediterranean", "Others"]
+    },
+    {
+        "index": 7,
+        "attribute": "organized",
+        "question": "Are you a messy or organized person?",
+        "option": ["Messy", "Very organized", "Fairly neat"]
+    },
+    {
+        "index": 8,
+        "attribute": "TV shows",
+        "question": "Favorite TV shows?",
+        "option": ["Game of Thrones", "How i met your mother", "Big bang theory", "Friends"]
+    },
+    {
+        "index": 9,
+        "attribute": "operating system",
+        "question": "Favorite phones system?",
+        "option": ["IOS", "Android"]
+    }
+]
